@@ -3,7 +3,7 @@
 List of essential software for a new Mac or PC.
 
 1. [macOS](https://github.com/maxchui/PC-Essentials-List/blob/main/macos.md)
-2. [~~Windows~~] (*Work in progress*)
+2. [Windows](https://github.com/maxchui/PC-Essentials-List/blob/main/windows.md)
 
 ## Contributing
 
