@@ -1,6 +1,6 @@
 # macOS Essentials <!-- omit from toc -->
 
-Last updated: 10 July 2023
+Last updated: 10 July 2023 <br />
 Note: Most links are direct download links for **Apple Silicon** versions.
 
 ## Table of Contents <!-- omit from toc -->
