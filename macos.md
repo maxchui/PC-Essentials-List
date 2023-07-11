@@ -56,7 +56,7 @@ Note: Most links are direct download links for **Apple Silicon** versions.
 5. [Mx Power Gadget](https://www.seense.com/menubarstats/mxpg/updateapp/mxpg.zip) (CPU Power Metrics Monitor)
 6. [Microsoft OneDrive](https://go.microsoft.com/fwlink/?linkid=823060) (Cloud Storage)
 7. [Adobe Creative Cloud](https://www.adobe.com/creativecloud/desktop-app.html)
-8. [Sony Imaging Edge](https://support.d-imaging.sony.co.jp/disoft_DL/desktop_DL/mac)
+8. [Sony Imaging Edge](https://support.d-imaging.sony.co.jp/disoft_DL/desktop_DL/mac?fm=tw)
 9. [Team Viewer](https://download.teamviewer.com/download/TeamViewer.dmg)
 10. [Transmission](https://transmissionbt.com/download) (Torrent Client)
 11. [Logitech G Hub](https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer.zip)
