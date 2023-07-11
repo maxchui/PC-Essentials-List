@@ -44,7 +44,7 @@ Note: Most links are direct download links for **Apple Silicon** versions.
 ## Productivity
 
 1. [Notion](https://www.notion.so/desktop)
-2. [Microsoft Office](https://www.microsoft.com/en-in/microsoft-365/microsoft-office)
+2. [Microsoft Office](https://aka.ms/office-install)
 3. [Final Cut Pro](https://apps.apple.com/us/app/final-cut-pro/id424389933?mt=12)
 
 ## Utilities
