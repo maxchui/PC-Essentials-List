@@ -1,6 +1,6 @@
 # Windows Essentials <!-- omit from toc -->
 
-Last updated: 10 July 2023
+Last updated: 17 July 2023
 
 ## Table of Contents <!-- omit from toc -->
 
@@ -10,7 +10,7 @@ Last updated: 10 July 2023
 - [Productivity](#productivity)
 - [Utilities](#utilities)
 - [Gaming](#gaming)
-- [iPhone Related](#iphone-related)
+- [Apple Related](#apple-related)
 
 ## Communication
 
@@ -32,6 +32,7 @@ Last updated: 10 July 2023
 2. [Sourcetree](https://www.sourcetreeapp.com/) (Git GUI)
 3. [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/) (JetBrains IDEs)
 4. [Postman](https://dl.pstmn.io/download/latest/win64) (API Testing)
+5. [DevToys](https://apps.microsoft.com/store/detail/devtoys/9PGCV4V3BK4W) (All-in-one Tool)
 
 ## Productivity
 
@@ -52,13 +53,17 @@ Last updated: 10 July 2023
 10. [Handbrake](https://handbrake.fr/downloads.php) (Video Transcoder)
 11. [Intel Extreme Tuning Utility](https://downloadcenter.intel.com/download/29183/Intel-Extreme-Tuning-Utility-Intel-XTU-?product=66427) (CPU Overclocking)
 12. [Notepad++](https://notepad-plus-plus.org/downloads/) (Text Editor)
+13. [WinDirStats](https://windirstat.net/download.html) (Disk Usage Analyzer)
+14. [Microsoft PowerToys](https://github.com/microsoft/PowerToys/releases) (Windows Utilities)
 
 ## Gaming
 
 1. [Steam](https://cdn.akamai.steamstatic.com/client/installer/steam.dmg)
 2. [NVIDIA GeForce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/download/)
 3. [MSI Afterburner](https://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip) (GPU Overclocking)
+4. [OBS](https://obsproject.com/download) (Broadcasting)
 
-## iPhone Related
+## Apple Related
 
 1. [iMazing](https://downloads.imazing.com/windows/iMazing/iMazing2forWindows.exe) (iOS Device Manager)
+2. [iTunes](https://www.apple.com/itunes/download/win64) (Music Player)
