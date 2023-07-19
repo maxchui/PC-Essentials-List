@@ -1,6 +1,6 @@
 # Windows Essentials <!-- omit from toc -->
 
-Last updated: 17 July 2023
+Last updated: 19 July 2023
 
 ## Table of Contents <!-- omit from toc -->
 
@@ -55,6 +55,7 @@ Last updated: 17 July 2023
 12. [Notepad++](https://notepad-plus-plus.org/downloads/) (Text Editor)
 13. [WizTree](https://diskanalyzer.com/download) (Disk Usage Analyzer)
 14. [Microsoft PowerToys](https://github.com/microsoft/PowerToys/releases) (Windows Utilities)
+15. [ShareX](https://github.com/ShareX/ShareX) (Screen Capture)
 
 ## Gaming
 
