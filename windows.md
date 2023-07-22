@@ -1,6 +1,6 @@
 # Windows Essentials <!-- omit from toc -->
 
-Last updated: 19 July 2023
+Last updated: 22 July 2023
 
 ## Table of Contents <!-- omit from toc -->
 
@@ -45,17 +45,18 @@ Last updated: 19 July 2023
 2. [Microsoft To Do](https://apps.microsoft.com/store/detail/microsoft-to-do-lists-tasks-reminders/)
 3. [VLC](https://www.videolan.org/vlc/) (Media Player)
 4. [HWInfo64](https://www.hwinfo.com/download/) (System Monitoring)
-5. [Microsoft OneDrive](https://go.microsoft.com/fwlink/?linkid=823060) (Cloud Storage)
-6. [Adobe Creative Cloud](https://www.adobe.com/creativecloud/desktop-app.html)
-7. [Sony Imaging Edge](https://support.d-imaging.sony.co.jp/disoft_DL/desktop_DL/win?fm=tw)
-8. [Team Viewer](https://download.teamviewer.com/download/TeamViewer_Setup_x64.exe)
-9. [Logitech G Hub](https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer.exe)
-10. [Handbrake](https://handbrake.fr/downloads.php) (Video Transcoder)
-11. [Intel Extreme Tuning Utility](https://downloadcenter.intel.com/download/29183/Intel-Extreme-Tuning-Utility-Intel-XTU-?product=66427) (CPU Overclocking)
-12. [Notepad++](https://notepad-plus-plus.org/downloads/) (Text Editor)
-13. [WizTree](https://diskanalyzer.com/download) (Disk Usage Analyzer)
-14. [Microsoft PowerToys](https://github.com/microsoft/PowerToys/releases) (Windows Utilities)
-15. [ShareX](https://github.com/ShareX/ShareX) (Screen Capture)
+5. [Fan Control](https://github.com/Rem0o/FanControl.Releases) (Fan Control Utility)
+6. [Microsoft OneDrive](https://go.microsoft.com/fwlink/?linkid=823060) (Cloud Storage)
+7. [Adobe Creative Cloud](https://www.adobe.com/creativecloud/desktop-app.html)
+8. [Sony Imaging Edge](https://support.d-imaging.sony.co.jp/disoft_DL/desktop_DL/win?fm=tw)
+9. [Team Viewer](https://download.teamviewer.com/download/TeamViewer_Setup_x64.exe)
+10. [Logitech G Hub](https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer.exe)
+11. [Handbrake](https://handbrake.fr/downloads.php) (Video Transcoder)
+12. [Intel Extreme Tuning Utility](https://downloadcenter.intel.com/download/29183/Intel-Extreme-Tuning-Utility-Intel-XTU-?product=66427) (CPU Overclocking)
+13. [Notepad++](https://notepad-plus-plus.org/downloads/) (Text Editor)
+14. [WizTree](https://diskanalyzer.com/download) (Disk Usage Analyzer)
+15. [Microsoft PowerToys](https://github.com/microsoft/PowerToys/releases) (Windows Utilities)
+16. [ShareX](https://github.com/ShareX/ShareX) (Screen Capture)
 
 ## Gaming
 
