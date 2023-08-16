@@ -57,6 +57,7 @@ Last updated: 22 July 2023
 14. [WizTree](https://diskanalyzer.com/download) (Disk Usage Analyzer)
 15. [Microsoft PowerToys](https://github.com/microsoft/PowerToys/releases) (Windows Utilities)
 16. [ShareX](https://github.com/ShareX/ShareX) (Screen Capture)
+17. [AMWin-RP](https://github.com/PKBeam/AMWin-RP) (Discord Apple Music Rich Presence)
 
 ## Gaming
 

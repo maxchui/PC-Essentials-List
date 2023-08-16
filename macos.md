@@ -61,6 +61,7 @@ Note: Most links are direct download links for **Apple Silicon** versions.
 10. [Transmission](https://transmissionbt.com/download) (Torrent Client)
 11. [Logitech G Hub](https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer.zip)
 12. [WonderISO](https://www.sysgeeker.com/download/wonderiso-for-mac.dmg) (Bootable Media Creator)
+13. [Apple Music Rich Presence](https://github.com/rohilpatel1/Apple-Music-Rich-Presence) (Discord Apple Music Rich Presence)
 
 ## Gaming
 
